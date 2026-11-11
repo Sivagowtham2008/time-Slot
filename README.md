@@ -46,8 +46,9 @@ Create a Django application to display a daily timetable with different time slo
 
 15. Run the Django development server and display the timetable in the browser.
 
-### Expected Output
-<img width="1899" height="982" alt="Screenshot 2026-11-07 185711" src="https://github.com/user-attachments/assets/934347b7-c222-412b-8b3b-4f873a3e41d7" />
+###  Output
+<img width="1911" height="1080" alt="{35D3356C-0628-4B13-8D03-B37507EBF98E}" src="https://github.com/user-attachments/assets/03fb627d-e359-406d-9fdb-31baffb29639" />
+
 
 ### Additional Tasks
 
